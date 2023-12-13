@@ -24,7 +24,7 @@ const Footer = () => {
                     </div>
                     <div className='text-white my-5'>
                         <h1 className='text-2xl mb-1'>Our Address</h1>
-                        <p> <span><i class="fa-solid fa-location-dot"></i></span> House-48, Roade-4, Block-E, Sector-1, Aftab Nagar, Badda, Dhaka-1212 .</p>
+                        <p> <span><i class="fa-solid fa-location-dot"></i></span> House-48, Roade-4, Block-E, Sector-1, Aftab Nagar, Badda, Dhaka-1212.</p>
 
                         <div className='socialIconwhtasapp'>
                           <div className='whatsappbg'>
