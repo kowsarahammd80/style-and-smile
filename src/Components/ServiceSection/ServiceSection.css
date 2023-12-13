@@ -1,0 +1,54 @@
+.serviceHeadline-welcomeTeaxt{
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #B6A684;
+}
+
+.our-service{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.slider-div{
+    padding: 10px;
+    box-shadow: 5px 5px 20px rgba(128, 128, 128, 0.807);
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+.sliderImage-div{
+   width: 100%;
+   height: 40vh;
+   rotate: -2deg;
+}
+
+.slider-image{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.slider-serviceName{
+   text-align: center;
+   font-size: 22px;
+   font-weight: 600;
+   margin-top: 5px;
+}
+
+.service-bookButton{
+    background-color: #E24E89;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+/* .service-bg{
+    background-image: url(../../assetes/images/prize-img.png);
+    background-repeat: no-repeat;
+
+} */

@@ -1,0 +1,20 @@
+.input-shadow-set{
+    box-shadow: 50px 50px 160px rgba(255, 255, 255, 0.553),inset -50px -50px -160px rgba(0, 0, 0, 0.318);
+    border: none !important;
+}
+.inputDiv{
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 7px;
+}
+.text-Div{
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 7px;
+}
+.contact-submitButton{
+    background: linear-gradient( 30deg, #ef93b8, #ca5383, #f17aaa );
+    padding: 8px;
+    font-weight: 600;
+    color: white;
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 7px;
+}

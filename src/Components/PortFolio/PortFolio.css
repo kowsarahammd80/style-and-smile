@@ -1,0 +1,56 @@
+.portFolioHeadline-welcomeTeaxt{
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #B6A684;
+} 
+.portfolio-imagediv{
+    width: 100%;
+    height: 80vh;
+}
+.porfolioImagesSiz1{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
+.div-for-right-carv{
+    width: 100%;
+    height: 50vh;
+    /* rotate: 2deg; */
+    box-shadow: 2px 2px 10px rgba(128, 128, 128, 0.492);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.div-for-left-carv{
+    width: 100%;
+    height: 55vh;
+    rotate: -2deg; 
+}
+.our-gallery{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+}
+.div-for-right-carv:hover .porfolioImagesSiz1{
+    transform: scale(1.2);
+    filter: grayscale(35%);
+}
+
+
+
+@media only screen and (max-width: 1024px){
+
+    .div-for-right-carv{
+        width: 100%;
+        height: 30vh;
+        /* rotate: 2deg; */
+        box-shadow: 2px 2px 10px rgba(128, 128, 128, 0.492);
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+}

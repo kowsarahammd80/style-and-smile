@@ -1,0 +1,25 @@
+.footer-bg{
+    background-color: rgba(2, 2, 30, 0.942);
+}
+
+.social-color{
+    color: #E83A89;
+    font-size: 36px;
+}
+.socialIconwhtasapp{
+    position: fixed;
+    right: 13px;
+    bottom: 20px;
+    z-index: 50;
+    display: flex;
+ }
+.whatsappbg{
+    background-color: rgb(244, 143, 143);
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px gray;
+}
+.messenger-bg{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px black;
+}
