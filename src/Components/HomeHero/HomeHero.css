@@ -1,4 +1,4 @@
-.heroBg-set{
+/* .heroBg-set{
     background-repeat: no-repeat;
     background-position: cover;
     background-size: cover;
@@ -29,18 +29,18 @@
     font-size: 50px;
     font-weight: 600; 
     color: white; 
-}
+} */
 
-.hero-headline{
+/* .hero-headline{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 130px;
     font-weight: 700;
     color: #FFF2BF;
     text-shadow: 2px 2px 10px;
-}
+} */
 
-.hero-pera-text{
+/* .hero-pera-text{
     font-size: 18px;
     color: white;
     font-weight: 500;
@@ -69,9 +69,9 @@
 
 .ZoomIn {
     animation: zoomin 10s ease-in-out infinite;
-  }
+  } */
 
-@keyframes zoomin {
+/* @keyframes zoomin {
     0% {
       transform: scale(0.9);
     }
@@ -93,7 +93,7 @@
     }
   
   
-  }
+  } */
 
 
 @media only screen and (max-width: 1024px){
